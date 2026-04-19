@@ -17,13 +17,13 @@ The objective is to identify suspicious activity that could indicate a brute for
 ## 📊 Logs Collected
 
 <p align="center">
-  <img src="./01-logs-overview.png" width="700"/>
+  <img src="./01-logs-overview.png" width="600"/>
   <br>
   <em>Figure 1: Multiple failed login attempts detected (Event ID 4625)</em>
 </p>
 
 <p align="center">
-  <img src="./02-event-details.png" width="700"/>
+  <img src="./02-event-details.png" width="600"/>
   <br>
   <em>Figure 2: Detailed view of failed login attempt (Event ID 4625)</em>
 </p>
